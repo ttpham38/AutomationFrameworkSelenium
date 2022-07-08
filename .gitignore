@@ -1,0 +1,12 @@
+/bin/
+/.idea
+/.allure
+/allure-results
+/ExportData
+/ExtentReports
+ExtentReports.zip
+/logs
+/target
+HDSD.txt
+*.png
+
