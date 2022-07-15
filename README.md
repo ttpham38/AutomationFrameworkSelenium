@@ -253,8 +253,3 @@
 
 ## I shall write document for my Framework. Coming soon...
 
-# Copyright 2022 Anh Tester
-
-> Anh Tester Blog: https://anhtester.com/
-
-![Alt text](https://anhtester.com/uploads/logo/anhtester_logo_512.png?raw=true "Anh Tester - Automation Testing")
