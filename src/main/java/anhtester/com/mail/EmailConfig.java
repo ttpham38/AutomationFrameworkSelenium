@@ -19,6 +19,6 @@ public class EmailConfig {
     public static final String FROM = "******@gmail.com";
     public static final String PASSWORD = "******";
 
-    public static final String[] TO = {"thaian.it15@gmail.com"};
+    public static final String[] TO = {"thaia.it15@gmail.com"};
     public static final String SUBJECT = REPORT_TITLE;
 }
